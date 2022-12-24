@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480778951236",
+    "project_id": "fanteziturkiyelig",
+    "storage_bucket": "fanteziturkiyelig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480778951236:android:095dcce20d2a3da3fdfa11",
+        "android_client_info": {
+          "package_name": "com.allr.fanteziturkiyelig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480778951236-b4b0mll5otrufrknnqldupdg33rc162u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9vDiecAWzqucx428t8RsEBnZych0fNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480778951236-b4b0mll5otrufrknnqldupdg33rc162u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
